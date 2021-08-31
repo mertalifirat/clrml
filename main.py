@@ -6,7 +6,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torchvision import datasets, transforms
 from torch.optim.lr_scheduler import StepLR
-
+from helper import train
 from clearml import Task
 task = Task.init(project_name='MyWorkssss', task_name='Say Hello')
 class Net(nn.Module):
