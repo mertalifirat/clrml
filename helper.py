@@ -1,3 +1,4 @@
+import torch.nn.functional as F
 def train(args, model, device, train_loader, optimizer, epoch):
     model.train()
     for batch_idx, (data, target) in enumerate(train_loader):
