@@ -1,3 +1,0 @@
-mathplot
-torch
-torchvision
