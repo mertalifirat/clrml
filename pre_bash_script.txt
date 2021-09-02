@@ -1,2 +1,1 @@
-g++ helloworld.cpp -o myprog
-./myprog
+python example.py
