@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.1
+torch
+torchvision
+trains==0.15.0
+matplotlib==3.3.0
