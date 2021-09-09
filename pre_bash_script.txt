@@ -1,1 +1,3 @@
-python example.py
+
+nvidia-smi
+python3 example.py
